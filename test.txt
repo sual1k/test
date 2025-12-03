@@ -1,4 +1,4 @@
-номер: +77015556677
+phone: +77015556677
 email: test@tele2.kz
 admin:password
-ИИН: 030521600691
+iin: 030521600691
